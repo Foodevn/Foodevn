@@ -170,23 +170,19 @@ const hoangPhuc = {
 const currentGoals = [
   {
     skill: "🌐 Web Development",
-    description: "Full Stack với MERN/MEAN",
-    progress: "▓▓▓▓▓▓▓░░░ 70%"
+    description: "Full Stack với MERN/MEAN"
   },
   {
     skill: "📱 Mobile Development", 
-    description: "React Native & Flutter",
-    progress: "▓▓▓▓▓░░░░░ 50%"
+    description: "React Native & Flutter"
   },
   {
     skill: "☁️ Cloud Computing",
-    description: "AWS, Docker, Kubernetes",
-    progress: "▓▓▓░░░░░░░ 30%"
+    description: "AWS, Docker, Kubernetes"
   },
   {
     skill: "🤖 AI/ML",
-    description: "TensorFlow, Python ML",
-    progress: "▓▓░░░░░░░░ 20%"
+    description: "TensorFlow, Python ML"
   }
 ];
 ```
