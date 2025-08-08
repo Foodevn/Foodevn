@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk/svg-only@v3
+      
 
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
