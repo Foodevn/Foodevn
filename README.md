@@ -237,45 +237,18 @@ const currentGoals = [
   <table>
   <tr>
     <td align="center">
-      <a href="mailto:hoangphuc@gmail.com">
+      <a href="mailto:hoangphuc0918065630@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" />
       </a>
     </td>
     <td align="center">
-      <a href="https://facebook.com/hoangphuc">
+      <a href="https://www.facebook.com/phuc.hoang.841946/?viewas=100000686899395">
         <img src="https://img.shields.io/badge/Facebook-4ECDC4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4ECDC4" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/hoangphuc">
-        <img src="https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=45B7D1" />
       </a>
     </td>
     <td align="center">
       <a href="https://instagram.com/hoangphuc">
         <img src="https://img.shields.io/badge/Instagram-96CEB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=96CEB4" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://discord.com/users/hoangphuc">
-        <img src="https://img.shields.io/badge/Discord-FFEAA7?style=for-the-badge&logo=discord&logoColor=white&labelColor=FFEAA7" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/hoangphuc">
-        <img src="https://img.shields.io/badge/Twitter-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF6B6B" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/hoangphuc">
-        <img src="https://img.shields.io/badge/Telegram-4ECDC4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=4ECDC4" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/@hoangphuc">
-        <img src="https://img.shields.io/badge/YouTube-45B7D1?style=for-the-badge&logo=youtube&logoColor=white&labelColor=45B7D1" />
       </a>
     </td>
   </tr>
