@@ -7,7 +7,7 @@ Software Engineer | Student at Da Lat University
 - University: Da Lat University
 - Faculty: Information Technology
 - Major: Software Engineering
-- GPA: 3.26
+- GPA: 3.39
 - Role: Software Engineer
 - Profile: https://hphucdev.id.vn/
 
